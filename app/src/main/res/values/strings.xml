@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Music</string>
+    <string name="imageView_disc">Imagen de Portada del disco</string>
+    <string name="button_return">Boton para retroceder</string>
+    <string name="button_play">Boton para dar play</string>
+    <string name="button_next">Boton para avanzar</string>
+    <string name="button_stop">Boton para parar</string>
+    <string name="button_repet">Boton para repetir</string>
+    <string name="txt_nombre">Eco - Ables Worship</string>
+    <string name="textView_inicio">0:10</string>
+    <string name="textView_fin">-1:49</string>
+</resources>
